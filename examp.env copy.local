@@ -1,0 +1,9 @@
+
+
+
+NEXTAUTH_SECRET=090hjsbefhgty12re2enwfdwef
+
+MYSQL_HOSTNAME=localhost
+MYSQL_DATABASE=my-activity
+MYSQL_PASSWORD=
+MYSQL_USER=root
